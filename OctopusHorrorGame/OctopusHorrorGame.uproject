@@ -139,6 +139,10 @@
 		{
 			"Name": "AssetPlacementEdMode",
 			"Enabled": true
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	]
 }
